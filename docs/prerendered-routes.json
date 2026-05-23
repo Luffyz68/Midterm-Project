@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/demo_app": {},
+    "/demo_app/A1": {},
+    "/demo_app/A2": {},
+    "/demo_app/A3": {},
+    "/demo_app/A4": {},
+    "/demo_app/A5": {}
+  }
+}
